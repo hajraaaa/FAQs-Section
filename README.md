@@ -31,7 +31,7 @@ git clone https://github.com/yourusername/faq-section-app.git
 
 Replace yourusername with your GitHub username.
 
-Open the Project in Xcode
+**Open the Project in Xcode**
 
 Navigate to the project folder and open the .xcodeproj file. Xcode will launch the project.
 
