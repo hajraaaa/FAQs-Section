@@ -25,21 +25,21 @@ This iOS application demonstrates how to implement a Frequently Asked Questions 
 
 ### Steps to Run the App
 
-**Clone the Repository**
+1. **Clone the Repository**
 
 git clone https://github.com/yourusername/faq-section-app.git
 
 Replace yourusername with your GitHub username.
 
-**Open the Project in Xcode**
+2. **Open the Project in Xcode**
 
 Navigate to the project folder and open the .xcodeproj file. Xcode will launch the project.
 
-**Build the Project**
+3. **Build the Project**
 
 Select your target device or simulator. Press Cmd + B to build the project.
 
-**Run the Project**
+4. **Run the Project**
 
 Press Cmd + R to run the app on the selected device or simulator.
 
